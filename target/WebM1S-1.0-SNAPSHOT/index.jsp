@@ -15,6 +15,6 @@
         <title>Taller Web 2022</title>
     </head>
     <body>
-        <h1>Hola Mundo Web</h1>
+        <h1>Hola Mundo Web con Heroku y Maven</h1>
     </body>
 </html>
