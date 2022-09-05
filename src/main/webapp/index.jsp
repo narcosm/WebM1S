@@ -16,5 +16,13 @@
     </head>
     <body>
         <h1>Hola Mundo Web con Heroku y Maven</h1>
+        <a href="UsuarioCTO">Aqui un servlet</a>
+        <form action="UsuarioCTO" method="get">
+            <label>NOMBRES: </label>
+            <input type="text" name="nombres" required/>
+            <label>APELLIDOS: </label>
+            <input type="text" name="apellidos" required/>
+            <input type="submit" name="registrar"  value="Registrar"/>
+        </form>
     </body>
 </html>
